@@ -1,12 +1,12 @@
 (("sack"
-  ("http://github.com/pereckerdal/sack/tarball/master"
+  ("http://github.com/pereckerdal/sack/tarball/3c05a6056236c9ac64ac8ab5fa81bb3fa78bc8ff"
    (package
     (version v0.0.1)
     (maintainer "Per Eckerdal <per dot eckerdal at gmail dot com>")
     (author "Per Eckerdal <per dot eckerdal at gmail dot com>")
-    (homepage "http://example.com")
-    (description "An example package")
+    (homepage "http://github.com/pereckerdal/sack")
+    (description "HTTP middleware for Scheme/Gambit/Black Hole, inspired by Ruby's Rack")
     (keywords http web i/o)
     (license mit)
-
+    
     (source-directory "src")))))
