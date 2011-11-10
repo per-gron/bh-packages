@@ -68,6 +68,17 @@
     (keywords util std)
     (license mit))))
  ("srfi"
+  ("http://github.com/pereckerdal/srfi/tarball/v0.0.2"
+   (package
+    (version v0.0.2)
+    (maintainer "Per Eckerdal <per dot eckerdal at gmail dot com>")
+    (author "Several")
+    (homepage "http://github.com/pereckerdal/srfi")
+    (description "A collection of SRFI implementations")
+    (keywords srfi util)
+    (license various)
+
+    (source-directory "src")))
   ("http://github.com/pereckerdal/srfi/tarball/v0.0.1"
    (package
     (version v0.0.1)
