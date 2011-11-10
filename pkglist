@@ -1,5 +1,5 @@
 (("sack"
-  ("http://github.com/pereckerdal/sack/tarball/7f8c323d4558a7af1e01055ed9ea10ab8de8f594"
+  ("http://github.com/pereckerdal/sack/tarball/916e232b6499c1efaa22bbbd8b9c5ad5957f007b"
    (package
     (version v0.0.2)
     (maintainer "Per Eckerdal <per dot eckerdal at gmail dot com>")
