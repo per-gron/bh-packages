@@ -1,4 +1,15 @@
 (("sack"
+  ("http://github.com/pereckerdal/sack/tarball/c10889b55bd508628c3674383d383f5e43074de6"
+   (package
+    (version v0.0.3)
+    (maintainer "Per Eckerdal <per dot eckerdal at gmail dot com>")
+    (author "Per Eckerdal <per dot eckerdal at gmail dot com>")
+    (homepage "http://github.com/pereckerdal/sack")
+    (description "HTTP middleware for Scheme/Gambit/Black Hole, inspired by Ruby's Rack")
+    (keywords http web i/o)
+    (license mit)
+    
+    (source-directory "src")))
   ("http://github.com/pereckerdal/sack/tarball/916e232b6499c1efaa22bbbd8b9c5ad5957f007b"
    (package
     (version v0.0.2)
